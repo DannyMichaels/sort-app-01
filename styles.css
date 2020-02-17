@@ -48,7 +48,7 @@ select {
     font-family: sans-serif;
     line-height: 1.2;
     margin: 30px;
-    box-shadow: 2px 2px 5px grey;
+    box-shadow: 1px 1px 5px grey;
     border-radius: 3px;
 }
 
